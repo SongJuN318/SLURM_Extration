@@ -33,14 +33,17 @@ Many challenges have been faced during this task and suitable solutions have bee
 ## Output
 
 (a)  Number of jobs created in each month.
+</br>
 ![unnamed (12)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/e9042ba5-841d-452f-894b-0f86da3a4d07)
 </br>
 ![unnamed (13)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/6bfe63d2-da15-4ea4-be60-7dcc70e06a9d)
 
 (b)  Number of backfill jobs in each month.
+</br>
 ![unnamed (14)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/f42eecc2-18d1-4bf4-8cd5-76b031e0c437)
-
+</br>
 ![unnamed (15)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/f145fed0-c8f3-4307-90f0-2a6903ba7076)
+</br>
 
 (c)  Number of jobs done in each month.
 ![unnamed (16)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/9c230683-c134-465c-acf8-9071c1a660cb)
