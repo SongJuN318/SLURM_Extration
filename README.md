@@ -43,55 +43,71 @@ Many challenges have been faced during this task and suitable solutions have bee
 ![unnamed (14)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/f42eecc2-18d1-4bf4-8cd5-76b031e0c437)
 </br>
 ![unnamed (15)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/f145fed0-c8f3-4307-90f0-2a6903ba7076)
-</br>
+
 
 (c)  Number of jobs done in each month.
+</br>
+
 ![unnamed (16)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/9c230683-c134-465c-acf8-9071c1a660cb)
+</br>
 
 ![unnamed (17)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/3c725cae-c4b1-4e0e-b96b-6fa49a6b5251)
 
 (d)  Number of jobs kill successfully/failure in each month.
+</br>
+
 ![unnamed (18)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/f97fd89a-98c1-4455-956d-8a015a6ab677)
+</br>
 
 ![unnamed (19)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/ee18d20b-5698-451c-97a3-5473b42cad9f)
+</br>
 
 ![unnamed (20)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/c864588d-66a4-4239-b85a-9813703625e8)
+</br>
 
 ![unnamed (21)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/d83691b9-e90e-4d66-8057-f4904f611189)
 
 (e)  Number of jobs by partitions.
+</br>
+
 ![unnamed (22)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/cc1832c3-091f-42e3-8d65-c7a664d13d91)
+</br>
 
 ![unnamed (23)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/450da866-e0e1-4e26-9094-166749fb55e1)
 
 (f)  Total number of WEXITSTATUS (successful & unsuccessful).
+</br>
+
 ![unnamed (24)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/1b6a6acc-0d64-4e40-b2f0-691424e3b3eb)
+</br>
 
 ![unnamed (25)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/e1f977a1-89a6-43a2-b068-116e17f81d08)
 
 (g) Total and average cleanup completion time.
+</br>
 ![unnamed (26)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/4055104b-e6ec-42a5-8dda-c38a6cdb7f34)
-
+</br>
 ![unnamed (27)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/3daa2a64-89e9-491d-91cc-ee521cf0aada)
 
 (h) Total and average execution time of the jobs submitted to UMHPC.
+</br>
 ![unnamed (28)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/ad677970-ddc9-4822-8c1b-7fccb1cd70a3)
-
+</br>
 ![unnamed (29)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/533793b3-996c-4408-b6c9-2e7f04f927dd)
 
-(i)  Number of error in each month.
+(i)  Number of error in each month.</br>
 ![unnamed (30)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/13b30e25-a839-4ae4-bde8-19dfc1e790be)
-
-(j)  Total type of error and each number of error
+</br>
+(j)  Total type of error and each number of error</br>
 ![unnamed (31)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/2b7c13fe-191a-4e88-895f-056cda0485d4)
-
-(k)  Number of jobs causing error and the corresponding user. 
+</br>
+(k)  Number of jobs causing error and the corresponding user. </br>
 ![unnamed (32)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/3cf53477-c8bf-4a99-8930-c97b4133d249)
-
-(l)  Number of error caused by each user.
+</br>
+(l)  Number of error caused by each user.</br>
 ![unnamed (33)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/d65f0762-41b5-4751-85a5-b96d1b65be7e)
-
-(m)  Number of error occur in the time range.
+</br>
+(m)  Number of error occur in the time range.</br>
 ![unnamed (34)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/bcbf2530-d44d-4b95-9b39-a7130a378652)
-
+</br>
 ![unnamed (35)](https://github.com/SongJuN318/SLURM_Extration/assets/116175959/d0266997-7f15-4837-a165-3d33eac22ac7)
